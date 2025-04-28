@@ -30,3 +30,4 @@ Katkıda bulunmak isterseniz, şu adımları takip edebilirsiniz:
 1. **Repo'yu Fork** yapın.
 2. Değişikliklerinizi yapın ve **Pull Request** oluşturun.
 
+https://github.com/okanaksu58/BlogForest/blob/master/BlogFores-1.JPG
